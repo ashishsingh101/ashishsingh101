@@ -1,5 +1,6 @@
 ![](https://gifdb.com/images/high/cartoon-batman-approves-mrgthhmrtd7ukueh.gif)
 [![Ashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashishsingh101&show=reviews&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashishsingh101&hide_progress=true)
 <!-- ### Hi there 👋 -->
 
 <!--
