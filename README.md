@@ -1,4 +1,4 @@
-[![Ashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashishsingh101&show=reviews)](https://github.com/anuraghazra/github-readme-stats)
+[![Ashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashishsingh101&show=reviews&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 <!-- ### Hi there 👋 -->
 
 <!--
