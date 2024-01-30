@@ -1,4 +1,9 @@
 <!--
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ashishsingh101&theme=github-compact&bg_color=000000&area_color=90EE90)](https://github.com/ashishsingh101/github-readme-activity-graph)
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=ashishsingh101)
+-->
+<!--
 ![](https://gifdb.com/images/high/cartoon-batman-approves-mrgthhmrtd7ukueh.gif)
 [![Ashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashishsingh101&show=reviews&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashishsingh101&hide_progress=true)
@@ -17,4 +22,21 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
+<!--
+<div id="badges">
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+<img src="https://komarev.com/ghpvc/?username=ashishsingh101&style=flat-square&color=blue" alt=""/>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ashishsingh101&theme=dark&background=000000)](https://git.io/streak-stats)
+
+<img src="https://komarev.com/ghpvc/?username=ashishsingh101&color=brightgreen" alt="watching_count" />
 -->
