@@ -1,8 +1,8 @@
 <!--
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ashishsingh101&theme=github-compact&bg_color=000000&area_color=90EE90)](https://github.com/ashishsingh101/github-readme-activity-graph)
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=ashishsingh101)
 -->
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=ashishsingh101)
 <!--
 ![](https://gifdb.com/images/high/cartoon-batman-approves-mrgthhmrtd7ukueh.gif)
 [![Ashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashishsingh101&show=reviews&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
