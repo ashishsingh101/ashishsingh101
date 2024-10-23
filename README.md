@@ -1,8 +1,18 @@
+<div align="center">
+<img src="https://github.com/ashishsingh101/ashishsingh101/blob/main/AshishWallpaper.jpg" />
+
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31k4kizoe6bnewg6mgi7hgxhnxgi&count=2)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ashishsingh101&theme=dark&border_radius=4&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=ashishsingh101)
+</div align="center">
+
+
 <!--
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ashishsingh101&theme=github-compact&bg_color=000000&area_color=90EE90)](https://github.com/ashishsingh101/github-readme-activity-graph)
 
 -->
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=ashishsingh101)
 <!--
 ![](https://gifdb.com/images/high/cartoon-batman-approves-mrgthhmrtd7ukueh.gif)
 [![Ashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashishsingh101&show=reviews&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
