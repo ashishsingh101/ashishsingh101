@@ -2,7 +2,7 @@
 <img src="https://github.com/ashishsingh101/ashishsingh101/blob/main/AshishWallpaper.jpg" />
 
 <!-- ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31k4kizoe6bnewg6mgi7hgxhnxgi&count=2) -->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ashishsingh101&theme=dark&border_radius=4&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ashishsingh101&theme=dark&border_radius=4&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) -->
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ashishsingh101)
 </div align="center">
@@ -49,3 +49,7 @@ Here are some ideas to get you started:
 
 <img src="https://komarev.com/ghpvc/?username=ashishsingh101&color=brightgreen" alt="watching_count" />
 -->
+
+<!--------------------- stats  -------------------------->
+<img  src="https://github-readme-stats.vercel.app/api?username=ashishsingh101&show_icons=true&hide_border=true&theme=highcontrast" width="48%" align="right" >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=ashishsingh101&theme=highcontrast" width="48%" >
